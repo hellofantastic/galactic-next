@@ -13,7 +13,7 @@ export default function Page(props) {
     <Instructions>
       This is a minimal starter for Nextjs + React-three-fiber and Threejs. Click on the{' '}
       <span className='text-cyan-200'>atoms nucleus</span> to navigate to the{' '}
-      <span className='text-green-200'>/blob</span> page. OrbitControls are enabled by default.
+      <span className='text-green-200'>/blobs</span> page. OrbitControls are enabled by default.
     </Instructions>
   )
 }
