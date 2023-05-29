@@ -9,7 +9,7 @@ export default function Header({ title = titleDefault }) {
   return (
     <Head>
       {/* Recommended Meta Tags */}
-      <meta charSet='utf-8'>
+      <meta charSet='utf-8' />
       <meta name='language' content='english' />
       <meta httpEquiv='content-type' content='text/html' />
       <meta name='author' content={author} />
