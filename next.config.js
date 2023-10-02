@@ -8,6 +8,7 @@ const withPWA = require('next-pwa')({
 })
 
 const nextConfig = {
+   output: 'export',
   // uncomment the following snippet if using styled components
   compiler: {
     styledComponents: true,
